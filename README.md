@@ -35,3 +35,9 @@ Find the value at the nth position in the Fibonacci sequence. A Fibonacci sequen
 2. Calculate the third by doing last value = last value[-1] + last value[-2]
 3. Repeat step 2 n - 3 times.
 4. 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+
+| Steps to solve problem  | How to solve |
+| ----------------------- | ------------ |
+| 1. Understand | Content Cell  |
+| * what is fibonacci?   | Content Cell  |
